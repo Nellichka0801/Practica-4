@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task 25 Raising A to the power of B/1.0.0": {
+        "runtime": {
+          "Task 25 Raising A to the power of B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task 25 Raising A to the power of B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
